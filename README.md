@@ -5,8 +5,13 @@ Inspired by the [VzBot Printed Printhead](https://github.com/VzBoT3D/Vz-Printhea
 ![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/fd258479-1595-436d-b93b-9c6d262a0006)
 
 ## Design
-Similar to VzBot, the design relies on 4 x 30mm aluminum standoffs and a top and bottom printed piece. There are only 5 necessary parts: the CPAP cooling duct, the duct spacer, the bottom part cooling duct, the top carriage piece, and the bottom carriage piece.
+Similar to VzBot, the design relies on 4 x 30mm aluminum standoffs and a top and bottom printed piece. 
+
+There are only 5 necessary parts: the CPAP cooling duct, the duct spacer, the bottom part cooling duct, the top carriage piece, and the bottom carriage piece.
+
 Unlike the VzBot Printhead, the back fan duct isn't an entire assembly designed to slide up and down. This makes my design much more limited (it doesn't include a cable holder, a large sliding range of motion to support many hotends, etc) but the tradeoff is hopefully worth it. 
+
+This is designed for a voron-style printer, only requiring a top-mounted X rail. Your front belts loop around the front aluminum standoffs and then are held in place with VzBot belt clamps.
 
 ## Compatibility
 This was made with these components in mind:
