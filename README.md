@@ -13,6 +13,8 @@ Unlike the VzBot Printhead, the back fan duct isn't an entire assembly designed 
 
 This is designed for a voron-style printer, only requiring a top-mounted X rail. Your front belts loop around the front aluminum standoffs and then are held in place with VzBot belt clamps.
 
+![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/833d899c-193b-4979-a66f-d9f2efffa98d)
+
 ## Compatibility
 This was made with these components in mind:
 - Sherpa Mini Extruder (mine is CNC but it should work exactly the same for the printed version)
@@ -68,7 +70,6 @@ This is a work in progress that may or may not get updates in the future. There 
 ## Gallery
 
 ![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/32890f07-e1cc-48c4-bf39-a0e7e3267bed)
-![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/833d899c-193b-4979-a66f-d9f2efffa98d)
 ![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/63a351a6-fe78-492a-bd5e-355d2c56ddb2)
 ![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/54211f65-271d-46dd-b975-5376e2cfd7d8)
 ![image](https://github.com/Midnite3DP/midnite-toolhead/assets/84816186/783fc6b0-7e71-4241-941f-ebb5fa130eeb)
